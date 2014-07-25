@@ -1,0 +1,29 @@
+{
+  "name": "node-mysql-query-helper",
+  "version": "0.0.0",
+  "description": "Simple helper which can help you to build MySQL queries",
+  "main": "./lib/queryHelper.js",
+  "dependencies": {
+    "underscore": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ria-com/node-mysql-query-helper.git"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "query",
+    "helper"
+  ],
+  "author": "SamhainG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ria-com/node-mysql-query-helper/issues"
+  },
+  "homepage": "https://github.com/ria-com/node-mysql-query-helper"
+}
